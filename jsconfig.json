@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es6"
+	},
+	"vueCompilerOptions": {
+		"experimentalDisableTemplateSupport": true,
+		"experimentalShamefullySupportOptionsApi": false
+	},
+	"exclude": ["node_modules"]
+}
